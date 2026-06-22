@@ -1,0 +1,56 @@
+name: Daily File Upload
+
+on:
+  schedule:
+    - cron: '0 4 * * *'
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  upload:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Main Repo
+      uses: actions/checkout@v4
+
+    - name: Clone Storage Repo
+      run: |
+        git clone https://github.com/Durgesh729/Github-CICD-Storage.git storage
+
+    - name: Create Tracker File
+      run: |
+        touch uploaded.txt
+
+    - name: Upload Next File
+      run: |
+
+        for file in storage/*; do
+
+          filename=$(basename "$file")
+
+          if grep -q "$filename" uploaded.txt; then
+            continue
+          fi
+
+          cp "$file" ./
+
+          echo "$filename" >> uploaded.txt
+
+          git config user.name "Durgesh729"
+          git config user.email "durgeshpadwal729@gmail.com"
+
+          git add .
+
+          git commit -m "Added $filename"
+
+          git push
+
+          echo "Uploaded $filename"
+
+          break
+
+        done
