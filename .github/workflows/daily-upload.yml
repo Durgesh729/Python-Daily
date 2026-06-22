@@ -37,6 +37,8 @@ jobs:
           fi
 
           cp "$file" ./
+          
+          rm -rf storage
 
           echo "$filename" >> uploaded.txt
 
