@@ -39,6 +39,7 @@ jobs:
           cp "$file" ./
           
           rm -rf storage
+          git rm -r --cached storage || true
 
           echo "$filename" >> uploaded.txt
 
