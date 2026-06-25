@@ -2,3 +2,4 @@
 02_handle_invalid_integer_input.py
 03_handle_file_not_found_error.py
 04_handle_index_error.py
+05_handle_key_error_in_dictionary.py
