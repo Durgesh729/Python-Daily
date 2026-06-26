@@ -3,3 +3,4 @@
 03_handle_file_not_found_error.py
 04_handle_index_error.py
 05_handle_key_error_in_dictionary.py
+06_handle_multiple_exceptions.py
