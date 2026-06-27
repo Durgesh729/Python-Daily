@@ -4,3 +4,4 @@
 04_handle_index_error.py
 05_handle_key_error_in_dictionary.py
 06_handle_multiple_exceptions.py
+07_handle_type_error.py
