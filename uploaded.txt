@@ -6,3 +6,4 @@
 06_handle_multiple_exceptions.py
 07_handle_type_error.py
 08_handle_import_error.py
+09_handle_name_error.py
