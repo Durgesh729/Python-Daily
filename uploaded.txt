@@ -10,3 +10,4 @@
 10_handle_attribute_error.py
 10to1.py
 11_use_finally_block.py
+12_handle_value_error_in_list_conversion.py
