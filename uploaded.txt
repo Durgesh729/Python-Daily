@@ -17,3 +17,4 @@
 16_handle_negative_number_exception.py
 17_handle_empty_string_error.py
 18+.py
+18_handle_list_removal_error.py
