@@ -23,3 +23,4 @@
 1to100primeno.py
 1toN.py
 1tondivisible17.py
+1tondivisible5.py
