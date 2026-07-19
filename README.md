@@ -1,91 +1,112 @@
 <div align="center">
 
-# <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="35"> Python Daily Practice
+# Python Daily Practice
 
-### Building consistency, one commit at a time.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Learning+Python+Every+Day;Building+Strong+Programming+Fundamentals;Exploring+New+Concepts;Writing+Better+Code+One+Commit+at+a+Time" />
 
-<p>
-  <img src="https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Focus-Problem%20Solving-blueviolet?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Mindset-Continuous%20Learning-orange?style=for-the-badge"/>
-</p>
+<br>
 
-*"Every commit is another step toward becoming a better developer."*
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Daily%20Practice-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/Consistency-238636?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Learning-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Growth-F97316?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
 
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="25"> About This Repository
+## About
 
-This repository is my **daily Python coding journal**.
+This repository documents my Python learning journey through consistent daily practice.
 
-Instead of only studying theory, I believe in **learning through consistent practice**.
+Every commit reflects time spent understanding concepts, experimenting with code, solving problems, and improving programming skills.
 
-Here I document my journey of exploring Python concepts, solving problems, experimenting with code, and gradually improving my programming skills.
-
-The goal isn't perfection.
-
-The goal is **progress**.
+The objective is to build strong fundamentals, write cleaner code, and continuously expand my knowledge by learning something new every day.
 
 ---
 
-## 🚀 What You'll Find
+## Learning Areas
 
 ```text
-Python Basics
-Object-Oriented Programming
+Python Fundamentals
 Functions
-Loops
-Modules
+Object-Oriented Programming
+Modules & Packages
 Exception Handling
 File Handling
 Data Structures
 Algorithms
 Problem Solving
-Coding Exercises
 Mini Projects
 Code Experiments
 ```
 
 ---
 
-## 🧠 Learning Principles
+## Current Progress
 
 <table>
 <tr>
-<td width="50%">
+<td width="220"><strong>Python Fundamentals</strong></td>
+<td>
 
-### 📌 Consistency
-
-Writing code every day is more valuable than coding occasionally for hours.
-
-</td>
-
-<td width="50%">
-
-### 📌 Curiosity
-
-Understanding *why* something works is more important than memorizing syntax.
+████████████████████ 100%
 
 </td>
 </tr>
 
 <tr>
+<td><strong>Functions</strong></td>
 <td>
 
-### 📌 Practice
-
-Every concept is reinforced through implementation.
+████████████████████ 100%
 
 </td>
+</tr>
 
+<tr>
+<td><strong>Object-Oriented Programming</strong></td>
 <td>
 
-### 📌 Growth
+██████████████░░░░░░ 70%
 
-Mistakes are part of the learning process.
+</td>
+</tr>
+
+<tr>
+<td><strong>Exception Handling</strong></td>
+<td>
+
+██████░░░░░░░░░░░░░░ 30%
+
+</td>
+</tr>
+
+<tr>
+<td><strong>File Handling</strong></td>
+<td>
+
+███░░░░░░░░░░░░░░░░░ 15%
+
+</td>
+</tr>
+
+<tr>
+<td><strong>Data Structures</strong></td>
+<td>
+
+░░░░░░░░░░░░░░░░░░░░ 0%
+
+</td>
+</tr>
+
+<tr>
+<td><strong>Algorithms</strong></td>
+<td>
+
+░░░░░░░░░░░░░░░░░░░░ 0%
 
 </td>
 </tr>
@@ -93,74 +114,41 @@ Mistakes are part of the learning process.
 
 ---
 
-## 📈 Current Journey
+## Repository Structure
 
 ```text
-Python Fundamentals      ██████████ 100%
-
-Functions                ██████████ 100%
-
-Object-Oriented Programming
-███████░░░ 70%
-
-Exception Handling       ░░░░░░░░░░
-
-File Handling            ░░░░░░░░░░
-
-Data Structures          ░░░░░░░░░░
-```
-
----
-
-## 💻 Repository Structure
-
-```text
-📦 Python-Daily-Practice
+Python-Daily-Practice/
 │
-├── 📂 Basics
-├── 📂 Functions
-├── 📂 OOP
-├── 📂 Loops
-├── 📂 File Handling
-├── 📂 Practice Problems
-├── 📂 Mini Projects
+├── Basics/
+├── Functions/
+├── OOP/
+├── Loops/
+├── Exception Handling/
+├── File Handling/
+├── Practice/
+├── Mini Projects/
 └── README.md
 ```
 
 ---
 
-## ⚡ Why This Repository Exists
+## Goals
 
-✔ Build discipline
-
-✔ Learn by building
-
-✔ Improve logical thinking
-
-✔ Develop clean coding habits
-
-✔ Track long-term progress
-
-✔ Strengthen Python fundamentals
-
-✔ Create a public learning timeline
-
-✔ Stay accountable
-
----
-
-## 💭 Philosophy
-
-> Great developers aren't built in a weekend.
-
-> They're built through thousands of small commits, countless mistakes, and continuous learning.
+- Build a strong Python foundation
+- Practice coding every day
+- Learn new concepts consistently
+- Improve problem-solving ability
+- Write clean and maintainable code
+- Explore different programming techniques
+- Track long-term progress
+- Develop professional coding habits
 
 ---
 
 <div align="center">
 
-### Thanks for stopping by! 👋
+### Thanks for visiting.
 
-**Happy Coding 🐍**
+<sub>Learning • Practicing • Improving</sub>
 
 </div>
