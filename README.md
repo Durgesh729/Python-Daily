@@ -1,178 +1,166 @@
 <div align="center">
 
-# 🐍 Python Daily Practice
+# <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="35"> Python Daily Practice
 
-### *"Consistency beats intensity."*
+### Building consistency, one commit at a time.
 
-![Python](https://img.shields.io/badge/Python-Programming-blue?style=for-the-badge&logo=python)
-![Learning](https://img.shields.io/badge/Daily-Learning-success?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
+<p>
+  <img src="https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-Problem%20Solving-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Mindset-Continuous%20Learning-orange?style=for-the-badge"/>
+</p>
 
-A repository dedicated to my **daily Python programming journey**.
-
-Every commit represents time invested in learning, practicing, experimenting, and improving my problem-solving skills.
+*"Every commit is another step toward becoming a better developer."*
 
 </div>
 
 ---
 
-# 🎯 Purpose
+## <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="25"> About This Repository
 
-This repository is my personal Python practice journal where I:
+This repository is my **daily Python coding journal**.
 
-- 📖 Learn new Python concepts every day
-- 💻 Write code consistently
-- 🧠 Strengthen programming fundamentals
-- 🔍 Explore different approaches to solving problems
-- 🚀 Build better coding habits
-- 📈 Track my learning progress over time
-- ⚡ Improve logical thinking
-- 🎯 Develop a disciplined learning routine
+Instead of only studying theory, I believe in **learning through consistent practice**.
 
----
+Here I document my journey of exploring Python concepts, solving problems, experimenting with code, and gradually improving my programming skills.
 
-# 📚 What You'll Find
+The goal isn't perfection.
 
-This repository may contain code related to:
-
-- Python Basics
-- Variables & Data Types
-- Operators
-- Conditional Statements
-- Loops
-- Functions
-- Object-Oriented Programming (OOP)
-- Exception Handling
-- File Handling
-- Modules & Packages
-- Data Structures
-- Algorithms
-- Problem Solving
-- Practice Questions
-- Mini Exercises
-- Code Experiments
-- Notes through Code
-- New Python Features
-- And many more as I continue learning...
+The goal is **progress**.
 
 ---
 
-# 🌱 Learning Philosophy
+## 🚀 What You'll Find
 
-I believe improvement comes from writing code consistently.
-
-This repository isn't about writing perfect code from day one.
-
-It's about:
-
-- Learning something new
-- Practicing regularly
-- Understanding concepts deeply
-- Making mistakes
-- Fixing mistakes
-- Refactoring code
-- Becoming a better developer every day
-
-Every file represents another step forward.
-
----
-
-# 💡 Repository Goals
-
-✅ Build consistency
-
-✅ Learn by doing
-
-✅ Practice daily
-
-✅ Understand concepts instead of memorizing
-
-✅ Improve coding confidence
-
-✅ Develop clean coding habits
-
-✅ Strengthen problem-solving ability
-
-✅ Create a visible record of continuous learning
-
----
-
-# 📈 Progress Mindset
-
-Every day may not contain a huge project.
-
-Sometimes it's:
-
-- One concept
-- One function
-- One class
-- One exercise
-- One bug fixed
-- One new idea explored
-
-Small progress every day eventually becomes significant growth.
-
----
-
-# 🧩 Current Learning Focus
-
-Topics are added as I learn them.
-
-- [x] Python Fundamentals
-- [ ] Object-Oriented Programming
-- [ ] File Handling
-- [ ] Exception Handling
-- [ ] Modules
-- [ ] Advanced Python
-- [ ] Data Structures
-- [ ] Algorithms
-- [ ] Projects
-
----
-
-# 📂 Repository Structure
-
+```text
+Python Basics
+Object-Oriented Programming
+Functions
+Loops
+Modules
+Exception Handling
+File Handling
+Data Structures
+Algorithms
+Problem Solving
+Coding Exercises
+Mini Projects
+Code Experiments
 ```
-Python-Daily-Practice/
+
+---
+
+## 🧠 Learning Principles
+
+<table>
+<tr>
+<td width="50%">
+
+### 📌 Consistency
+
+Writing code every day is more valuable than coding occasionally for hours.
+
+</td>
+
+<td width="50%">
+
+### 📌 Curiosity
+
+Understanding *why* something works is more important than memorizing syntax.
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 📌 Practice
+
+Every concept is reinforced through implementation.
+
+</td>
+
+<td>
+
+### 📌 Growth
+
+Mistakes are part of the learning process.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📈 Current Journey
+
+```text
+Python Fundamentals      ██████████ 100%
+
+Functions                ██████████ 100%
+
+Object-Oriented Programming
+███████░░░ 70%
+
+Exception Handling       ░░░░░░░░░░
+
+File Handling            ░░░░░░░░░░
+
+Data Structures          ░░░░░░░░░░
+```
+
+---
+
+## 💻 Repository Structure
+
+```text
+📦 Python-Daily-Practice
 │
-├── Day-01/
-├── Day-02/
-├── Day-03/
-├── OOP/
-├── Functions/
-├── Loops/
-├── Projects/
-├── Practice/
+├── 📂 Basics
+├── 📂 Functions
+├── 📂 OOP
+├── 📂 Loops
+├── 📂 File Handling
+├── 📂 Practice Problems
+├── 📂 Mini Projects
 └── README.md
 ```
 
-*(Folder names may evolve as my learning progresses.)*
+---
+
+## ⚡ Why This Repository Exists
+
+✔ Build discipline
+
+✔ Learn by building
+
+✔ Improve logical thinking
+
+✔ Develop clean coding habits
+
+✔ Track long-term progress
+
+✔ Strengthen Python fundamentals
+
+✔ Create a public learning timeline
+
+✔ Stay accountable
 
 ---
 
-# 🚀 Why This Repository Exists
+## 💭 Philosophy
 
-This repository serves as:
+> Great developers aren't built in a weekend.
 
-- A learning diary
-- A record of consistent practice
-- A place to experiment with Python
-- A collection of solved exercises
-- A reflection of continuous improvement
-- A reminder that progress is built one day at a time
-
----
-
-# 📌 Motto
-
-> **Learn. Practice. Improve. Repeat.**
+> They're built through thousands of small commits, countless mistakes, and continuous learning.
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting!
+### Thanks for stopping by! 👋
 
-**Happy Coding! 🐍**
+**Happy Coding 🐍**
 
 </div>
