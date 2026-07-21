@@ -28,3 +28,4 @@
 2ndlargest.py
 Capitalizeeverywordinsentence.py
 HCF.py
+LCM.py
