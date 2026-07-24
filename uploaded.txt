@@ -31,3 +31,4 @@ HCF.py
 LCM.py
 Recursion.py
 Secondlargest.py
+Sum1toN.py
