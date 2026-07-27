@@ -34,3 +34,4 @@ Secondlargest.py
 Sum1toN.py
 WordLengthDict.py
 addofList.py
+allfactor.py
