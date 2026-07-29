@@ -36,3 +36,4 @@ WordLengthDict.py
 addofList.py
 allfactor.py
 anagram.py
+anargram.py
