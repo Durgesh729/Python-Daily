@@ -38,3 +38,4 @@ allfactor.py
 anagram.py
 anargram.py
 armstrong.py
+checkingiterm.py
