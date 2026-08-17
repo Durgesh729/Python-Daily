@@ -55,3 +55,4 @@ divisibleby7.py
 divisiblebyboth.py
 even.py
 even1to100.py
+evenorodd.py
