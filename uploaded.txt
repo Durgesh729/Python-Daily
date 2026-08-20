@@ -58,3 +58,4 @@ even1to100.py
 evenorodd.py
 evenusingFunction.py
 extractno.py
+factorial.py

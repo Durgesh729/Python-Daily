@@ -1,0 +1,1 @@
+print(__import__("math").factorial(int(6)))
