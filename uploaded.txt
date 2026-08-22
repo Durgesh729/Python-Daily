@@ -60,3 +60,4 @@ evenusingFunction.py
 extractno.py
 factorial.py
 factorialN.py
+factorialof1ton.py
