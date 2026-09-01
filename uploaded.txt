@@ -70,3 +70,4 @@ frequency.py
 greaterno.py
 greaterthanK.py
 inrange.py
+invertdictionary.py
