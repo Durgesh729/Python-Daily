@@ -79,3 +79,4 @@ listTOtuple.py
 listapearanceinboth.py
 listcomprehension.py
 listisuniqueornot.py
+listofsquare.py
