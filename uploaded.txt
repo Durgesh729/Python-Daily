@@ -83,3 +83,4 @@ listofsquare.py
 mapKey&Values.py
 maximuminlist.py
 maxvalue.py
+merge2dict.py
