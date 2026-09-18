@@ -87,3 +87,4 @@ merge2dict.py
 mergelist.py
 multiTable.py
 multiplication.py
+multiplicationtable.py
