@@ -89,3 +89,4 @@ multiTable.py
 multiplication.py
 multiplicationtable.py
 negativeno.py
+newlinestring.py
