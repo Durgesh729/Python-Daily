@@ -91,3 +91,4 @@ multiplicationtable.py
 negativeno.py
 newlinestring.py
 noofcharacterinstr.py
+SmartCollegeERPsystem.py
