@@ -92,3 +92,4 @@ negativeno.py
 newlinestring.py
 noofcharacterinstr.py
 SmartCollegeERPsystem.py
+odd1to100.py
