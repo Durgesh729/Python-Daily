@@ -94,3 +94,4 @@ noofcharacterinstr.py
 SmartCollegeERPsystem.py
 odd1to100.py
 palindrome.py
+perfectno.py
