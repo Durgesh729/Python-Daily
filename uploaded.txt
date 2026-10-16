@@ -115,3 +115,4 @@ repeatStringNtimes.py
 reverseString.py
 reversevalue.py
 reverseword.py
+search&terminate.py
