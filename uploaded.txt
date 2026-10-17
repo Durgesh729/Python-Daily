@@ -116,3 +116,4 @@ reverseString.py
 reversevalue.py
 reverseword.py
 search&terminate.py
+skip0.py
