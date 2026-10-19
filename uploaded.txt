@@ -118,3 +118,4 @@ reverseword.py
 search&terminate.py
 skip0.py
 skipoddprinteevn.py
+smallestno.py
