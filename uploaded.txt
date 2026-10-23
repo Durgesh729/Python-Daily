@@ -122,3 +122,4 @@ smallestno.py
 smallestword.py
 sortdictbyvalues.py
 sortedornot.py
+sorteduniquenumber.py
