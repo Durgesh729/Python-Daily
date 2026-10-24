@@ -123,3 +123,4 @@ smallestword.py
 sortdictbyvalues.py
 sortedornot.py
 sorteduniquenumber.py
+square1ton.py
