@@ -124,3 +124,4 @@ sortdictbyvalues.py
 sortedornot.py
 sorteduniquenumber.py
 square1ton.py
+squareofeachno.py
