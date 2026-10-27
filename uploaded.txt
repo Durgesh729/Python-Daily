@@ -126,3 +126,4 @@ sorteduniquenumber.py
 square1ton.py
 squareofeachno.py
 stopsum==100.py
+sum.py
