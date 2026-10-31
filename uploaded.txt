@@ -130,3 +130,4 @@ sum.py
 sumnaturalno.py
 sumof1stN.py
 sumof5.py
+sumofallevenno.py
