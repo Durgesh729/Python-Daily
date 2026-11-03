@@ -133,3 +133,4 @@ sumof5.py
 sumofallevenno.py
 sumofallfactor.py
 sumofdigit.py
+sumofevenno.py
