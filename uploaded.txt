@@ -135,3 +135,4 @@ sumofallfactor.py
 sumofdigit.py
 sumofevenno.py
 sumoffibonacci.py
+sumoffibonacciseries.py
