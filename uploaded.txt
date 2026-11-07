@@ -137,3 +137,4 @@ sumofevenno.py
 sumoffibonacci.py
 sumoffibonacciseries.py
 sumoflist.py
+sumofoddno.py
