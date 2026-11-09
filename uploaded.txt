@@ -139,3 +139,4 @@ sumoffibonacciseries.py
 sumoflist.py
 sumofoddno.py
 swapvariable.py
+ternery.py
