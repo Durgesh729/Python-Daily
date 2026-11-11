@@ -141,3 +141,4 @@ sumofoddno.py
 swapvariable.py
 ternery.py
 totalnoofdigit.py
+uniqueElement.py
