@@ -142,3 +142,4 @@ swapvariable.py
 ternery.py
 totalnoofdigit.py
 uniqueElement.py
+uniquecharacter.py
