@@ -143,3 +143,4 @@ ternery.py
 totalnoofdigit.py
 uniqueElement.py
 uniquecharacter.py
+unzip.py
