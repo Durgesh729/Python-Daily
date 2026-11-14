@@ -144,3 +144,4 @@ totalnoofdigit.py
 uniqueElement.py
 uniquecharacter.py
 unzip.py
+upper&lowercase.py
